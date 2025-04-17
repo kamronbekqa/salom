@@ -1,0 +1,35 @@
+.container {
+  margin: 0 auto;
+  padding: 0 350px;
+}
+.header-wrapper {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.header-right {
+  display: flex;
+  gap: 15px;
+  align-items: center;
+}
+/* .header-left img {
+  width: 60px;
+  height: 20px;
+} */
+button{
+width: 100px;
+height: 40px;
+background-color: #4CAF4F;
+border-radius: 1.34px;
+color: white;
+border: none;
+}
+.hero-wrapper{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.img{
+  position: relative;
+  left: 350px;
+}
